@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- 告诉系统，允许相机把拍好的照片存到我们的 cache 目录下 -->
+    <cache-path name="my_images" path="." />
+</paths>
